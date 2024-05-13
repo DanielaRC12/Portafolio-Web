@@ -15,6 +15,17 @@ nav, header {
     border-radius: 12px;
 }
 
+.icono-contacto {
+    font-size: 2rem; 
+    color: black;
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.8rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
+}
+
 .subtitulo-habilidades {
     margin-top: 16px;
 }
